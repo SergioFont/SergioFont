@@ -30,3 +30,4 @@ I am Sergio :)
 <a href="https://github.com/SergioFont/SergioFont">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioFont&hide=java,html,tex&theme=dracula&langs_count=3&count_private=true" />
 </a>
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/SergioFont/SergioFont.github.io?style=social">
